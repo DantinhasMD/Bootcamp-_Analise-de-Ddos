@@ -23,5 +23,8 @@ Regras do Modelo:
 ![image](https://github.com/user-attachments/assets/c3f534c3-5203-4677-b6ce-28f6b68b0e9e)
 
 # 3. Contruindo um Modelo Lógico - 
-
-- 
+Replicar o código feito em Aula e adicionar estes desafios:
+- Não há um mínimo de queries a serem realizadas
+- Os tópicos devem estar presentes em queries
+- Elabore perguntas que devem ser respondidas pelas consultas
+- As cláusulas podem estar presentes em mais de uma query 
