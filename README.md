@@ -27,4 +27,13 @@ Replicar o código feito em Aula e adicionar estes desafios:
 - Não há um mínimo de queries a serem realizadas
 - Os tópicos devem estar presentes em queries
 - Elabore perguntas que devem ser respondidas pelas consultas
-- As cláusulas podem estar presentes em mais de uma query 
+- As cláusulas podem estar presentes em mais de uma query
+
+Sendo que devem ser criandos com as cláusulas a baixo:
+- Recuperações simples com SELECT
+- Filtros com Where
+- Crie expressões para gerar atributos derivados
+- Defina ordenações dos dados com ORDER BY
+- Condições de filtros em grupos - HAVING
+- Crie junções entre Tabelas 
+
