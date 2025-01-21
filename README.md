@@ -19,7 +19,6 @@ Regras do Modelo:
 - Os mecânicos possuem código, nome, endereço e especialidade
 - Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
-![image](https://github.com/user-attachments/assets/c3f534c3-5203-4677-b6ce-28f6b68b0e9e)
 
 # 3. Contruindo um Modelo Lógico - Queries do Desafio 1 🔍
 Replicar o código feito em Aula (Baseado no Modelo Conceitual, criar o Modelo lógico) e realizar as seguintes Queries:
