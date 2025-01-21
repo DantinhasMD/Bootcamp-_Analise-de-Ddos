@@ -22,8 +22,8 @@ Regras do Modelo:
 
 ![image](https://github.com/user-attachments/assets/c3f534c3-5203-4677-b6ce-28f6b68b0e9e)
 
-# 3. Contruindo um Modelo Lógico - 
-Replicar o código feito em Aula e adicionar estes desafios:
+# 3. Contruindo um Modelo Lógico - Queries do Desafio 1
+Replicar o código feito em Aula (Baseado no Modelo Conceitual, criar o Modelo lógico) e realizar as seguintes Queries:
 - Não há um mínimo de queries a serem realizadas
 - Os tópicos devem estar presentes em queries
 - Elabore perguntas que devem ser respondidas pelas consultas
