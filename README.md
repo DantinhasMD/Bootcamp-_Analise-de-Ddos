@@ -9,7 +9,7 @@ Adicione ao Modelo:
 
 ![image](https://github.com/user-attachments/assets/786f8735-19de-43bc-ae7f-4ea4ea748080)
 
-# 2. Fazendo um Modelo Conceitual do Zero - Oficina de Mecânico
+# 2. Fazendo um Modelo Conceitual - Oficina de Mecânico
 Regras do Modelo: 
 - Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica
 - Clientes levam veículos à oficina mecânica para serem consertados ou para passarem por revisões  periódicas
