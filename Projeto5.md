@@ -7,10 +7,10 @@ Neste projeto você irá replicar duas páginas já criadas durante o curso com 
 2. Página
 ![Image](https://github.com/user-attachments/assets/22272733-27d6-4f48-85f7-fe2e2b3020d6)
 
-3. Página: [Base de D\dos](https://github.com/user-attachments/files/18550560/Financial.Sample.xlsx)
-Visual mapa 1: Soma de sales e unidades vendidas por país
-Visual mapa 2: Soma de lucro (profit) por país
-Visual de pizza: Lucro por segmento
+3. Página: [Base de Dados](https://github.com/user-attachments/files/18550560/Financial.Sample.xlsx)
+- Visual mapa 1: Soma de sales e unidades vendidas por país
+- Visual mapa 2: Soma de lucro (profit) por país
+- Visual de pizza: Lucro por segmento
 
 Além disso:
 
