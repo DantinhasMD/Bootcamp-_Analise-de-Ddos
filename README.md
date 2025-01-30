@@ -49,3 +49,11 @@ Além disso:
 - Preste atenção aos campos que são utilizados como dicas de ferramentas  
 - Publique o relatório 
 - Compartilhe como suplemento no Power Point (Caso não tenha Power Point, salve o projeto de Power BI)
+  
+## 6. Criando Um Relatório Gerencial de Vendas
+Você irá criar um relatório mais elaborado com base na sample financials do Power BI. 
+- Estrutura definida 
+- Botões de navegação que fornecem navegabilidade 
+- Segmentadores utilizados e botões com imagem associado 
+- Utilize os indicadores e botões para selecionar diferentes visuais sobre um mesmo assunto 
+
