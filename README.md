@@ -1,4 +1,4 @@
-# Suzano - Análise de Dados com Power BI 🚀
+# Suzano - Análise de Dados com Power BI 🚀 (Apenas réplicas) 
 Projetos Desenvolvidos com enfâse em Análise de Dados. Nesse bootcamp da DIO exploramos os principais contéudos para uma Carreira em Dados. Enfatizo que este bootcamp serve apenas para entrega dos projetos. Caso queira ver um projeto prático, desenvolvido totalmente por mim e utilizando do conhecimento obtido nesse bootcamp, acesse aqui:
 
 # Parte 1 a 3: Introdução a Banco de Dados, Sistemas Relacionais e Consultas com SQL
@@ -78,8 +78,17 @@ O processo consiste na criação das tabelas com base na tabela original. A part
 - D_Calendário – Criada por DAX com calendar()
 - F_Vendas (SK_ID , ID_Produto, Produto, Units Sold, Sales Price, Discount Band, Segment, Country, Salers, Profit, Date (campos))
 
-## 10. Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI
+## 10. Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI 
+Modificar o relatório criativo, o primeiro que criamos juntos, focando na experiência do usuário. Acompanhe o vídeo para que você entenda o que foi feito neste processo. Além disso, leve em consideração os seguintes pontos:
+· Posicionamento
+· Contraste
+· Proporção áurea
+· Segmentação dos dados
 
+## 11. Criando um Relatório Vendas e Lucros Com Power BI
+Pontos a serem considerados
 
-## 11. Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI
-
+· Crie a página detalhes conforme mostrado no desafio de projeto
+· Pense na disposição dos visuais em como o cliente irá consumir o conteúdo
+· Dependendo da disposição dos visuais o número de páginas pode variar. Até duas páginas podem compor o que é pedido
+· Crie as medidas necessárias
