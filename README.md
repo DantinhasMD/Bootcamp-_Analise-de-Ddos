@@ -64,7 +64,7 @@ Você irá criar um relatório mais elaborado com base na sample financials do P
 4. Verificar problemas na base a fim de realizar a transformação dos dados
 
 ## 8. Dashboard de Vendas com Power BI utilizando Star Schema
-Criar o diagrama dimensional – star schema – com base no diagrama relacional disponibilizado.
+Criar o diagrama dimensional – star schema.
 
 ## 9. Modelando um Dashboard de E-commerce com Power BI Utilizando Fórmulas DAX
 Utilizaremos a tabela única de Financial Sample para criar as tabelas dimensão e fato do nosso modelo baseado em star schema.
