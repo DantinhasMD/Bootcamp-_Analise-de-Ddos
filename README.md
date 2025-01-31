@@ -1,5 +1,5 @@
 # Suzano - Análise de Dados com Power BI 🚀
-Projetos Desenvolvidos com enfâse em Análise de Dados. Nesse bootcamp da DIO exploramos os principais contéudos para uma Carreira em Dados.
+Projetos Desenvolvidos com enfâse em Análise de Dados. Nesse bootcamp da DIO exploramos os principais contéudos para uma Carreira em Dados. Enfatizo que este bootcamp serve apenas para entrega dos projetos. Caso queira ver um projeto prático, desenvolvido totalmente por mim e utilizando do conhecimento obtido nesse bootcamp, acesse aqui:
 
 # Parte 1 a 3: Introdução a Banco de Dados, Sistemas Relacionais e Consultas com SQL
 
