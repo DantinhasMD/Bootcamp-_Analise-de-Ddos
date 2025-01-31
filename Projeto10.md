@@ -1,4 +1,4 @@
-# 10.
+# 10. Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI
 Modificar o relatório criativo, o primeiro que criamos juntos, focando na experiência do usuário. Acompanhe o vídeo para que você entenda o que foi feito neste processo. Além disso, leve em consideração os seguintes pontos:
 · Posicionamento
 · Contraste
