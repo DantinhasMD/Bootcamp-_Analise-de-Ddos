@@ -57,3 +57,20 @@ Você irá criar um relatório mais elaborado com base na sample financials do P
 - Segmentadores utilizados e botões com imagem associado 
 - Utilize os indicadores e botões para selecionar diferentes visuais sobre um mesmo assunto 
 
+## 7. Dashboard corporativo com integração com MySQL e Azure
+1. Criação de uma instância na Azure para MySQL
+2. Criar o Banco de dados com base disponível no github
+3. Integração do Power BI com MySQL no Azure
+4. Verificar problemas na base a fim de realizar a transformação dos dados
+
+## 8. Dashboard de Vendas com Power BI utilizando Star Schema
+Criar o diagrama dimensional – star schema – com base no diagrama relacional disponibilizado.
+
+## 9. Modelando um Dashboard de E-commerce com Power BI Utilizando Fórmulas DAX
+
+
+## 10. Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI
+
+
+## 11. Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI
+
